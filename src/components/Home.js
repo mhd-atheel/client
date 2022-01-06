@@ -36,6 +36,19 @@ const Home = () => {
 
                 </td>
               </tr>
+              <tr>
+                <th scope="row">1</th>
+                <td>Aathil</td>
+                <td>aathilmazz1234@gmail.com</td>
+                <td>Softwere Engineer</td>
+                <td> 0750755684</td>
+                <td className="d-flex">
+                    <button className="btn btn-success"><RemoveRedEyeIcon/></button>
+                    <button className="btn btn-primary"><CreateIcon/></button>
+                    <button className="btn btn-danger"><DeleteOutlineIcon/></button>
+
+                </td>
+              </tr>
               
             </tbody>
           </table>
